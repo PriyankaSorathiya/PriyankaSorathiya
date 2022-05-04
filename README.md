@@ -107,7 +107,7 @@
   </a>
    &emsp;
    <a href="https://scikit-learn.org/stable/tutorial/index.html" target="_blank">
-    <img alt=scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%2314354C.svg?style=plastic&logo=scikit-learn&logoColor=white">
+    <img alt=scikitlearn" src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?style=plastic&logo=scikitlearn&logoColor=white">
   </a>
 </p>
 
@@ -130,7 +130,8 @@
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-%2366595C.svg?&style=plastic&logo=pycharm&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>        &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%2366595C.svg?&style=plastic&logo=jupyter&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
