@@ -65,7 +65,7 @@
 ### 👉Backend Development
 <p align="center"> 
     &emsp;
-  <a href="https://www.w3schools.com/REACT/" target="_blank">
+  <a href="https://www.w3schools.com/nodejs/" target="_blank">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%231572B6.svg?style=plastic&logo=node.js&logoColor=white">
   </a> 
     &emsp;
@@ -73,8 +73,41 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
     &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?style=plastic&logo=flask&logoColor=white">
+  </a>
+</p>
+
+### 👉Database
+<p align="center"> 
+    &emsp;
+  <a href="https://www.w3schools.blog/mongodb-tutorial" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?style=plastic&logo=mongodb&logoColor=white">
+  </a> 
+    &emsp;
+   <a href="https://www.w3schools.com/mySQl/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+</p>
+
+
+### 👉Data Sceince Libraries 
+<p align="center"> 
+    &emsp;
+  <a href="https://www.w3schools.com/python/pandas/" target="_blank">
+    <img alt="pandas" src="https://img.shields.io/badge/pandas%20-%231572B6.svg?style=plastic&logo=pandas&logoColor=white">
+  </a> 
+    &emsp;
+   <a href="https://www.w3schools.com/python/numpy/" target="_blank">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy%20-%2314354C.svg?style=plastic&logo=numpy&logoColor=white">
+  </a>
+   &emsp;
+   <a href="https://www.w3schools.com/python/matplotlib_pyplot.asp" target="_blank">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%2314354C.svg?style=plastic&logo=matplotlib&logoColor=white">
+  </a>
+   &emsp;
+   <a href="https://scikit-learn.org/stable/tutorial/index.html" target="_blank">
+    <img alt=scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%2314354C.svg?style=plastic&logo=scikit-learn&logoColor=white">
   </a>
 </p>
 
